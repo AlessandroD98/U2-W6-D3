@@ -6,7 +6,7 @@ timer.innerHTML = x;
 
 function counter() {
   const Interval = setInterval(function () {
-    if (x === 1000) {
+    if (x == 1000) {
       clearInterval(Interval);
     } else {
       x = x + 1;
