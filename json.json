@@ -1,0 +1,61 @@
+
+{"Manga": [
+        {
+            "nome": "Onepiece",
+            "autore" : 	"Eiichirō Oda",
+            "data di rilascio" : "22 luglio 1997",
+            "stato" : "in corso",
+            "type" : "shonen"
+        },
+        {
+            "nome": "Berserk",
+            "autore" : 	"Kentarō Miura",
+            "data di rilascio" : "25 agosto 1989",
+            "stato" : "in corso",
+            "type" : "seinen"
+        },
+        {
+            "nome": "One-Punch Man",
+            "autore" : 	"One",
+            "data di rilascio" : "14 giugno 2012",
+            "stato" : "in corso",
+            "type" : "seinen"
+        },
+        {
+            "nome": "Mob Psycho 100",
+            "autore" : 	"One",
+            "data di rilascio" : "18 aprile 2012",
+            "stato" : "completo",
+            "type" : "shonen"
+        },
+        {
+            "nome": "Chainsaw Man",
+            "autore" : 	"Tatsuki Fujimoto",
+            "data di rilascio" : "3 dicembre 2018",
+            "stato" : "in corso",
+            "type" : "shonen"
+        },
+        {
+            "nome": "Kaiju No. 8",
+            "autore" : 	"Naoya Matsumoto",
+            "data di rilascio" : "3 luglio 2020",
+            "stato" : "in corso",
+            "type" : "shonen"
+        },
+        {
+            "nome": "Shangri-La Frontier",
+            "autore" : 	"Katarina",
+            "data di rilascio" : "15 luglio 2020",
+            "stato" : "in corso",
+            "type" : "shonen"
+        },
+        {
+            "nome": "Overlord",
+            "autore" : 	"Kugane Maruyama",
+            "data di rilascio" : "26 giugno 2015",
+            "stato" : "in corso",
+            "type" : "seinen"
+        }
+]
+}
+
